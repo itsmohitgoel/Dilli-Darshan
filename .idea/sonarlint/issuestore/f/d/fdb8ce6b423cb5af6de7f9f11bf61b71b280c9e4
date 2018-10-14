@@ -1,0 +1,5 @@
+
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Ÿ„…8Óá¿–ç,
+Gsquid:S1068")Remove this unused "mPage" private field.( ’—­8Óá¿–ç,
+rsquid:S1450"TRemove the "mPage" field and declare it as a local variable in the relevant methods.( ’—­8Óá¿–ç,
+squid:S1488+"\Immediately return this expression instead of assigning it to the temporary variable "view".(ì©ªžùÿÿÿÿ8Óá¿–ç,
