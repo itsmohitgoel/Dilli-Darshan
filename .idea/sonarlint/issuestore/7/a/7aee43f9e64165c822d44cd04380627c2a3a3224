@@ -1,0 +1,6 @@
+
+qsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Β¥α8³Υη,
+squid:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Χ½8Ν€—η,
+Jsquid:S1068"'Remove this unused "TAG" private field.(Αειΰώÿÿÿÿ8φ‚…η,
+[squid:S1155'">Use isEmpty() to check whether the collection is empty or not.(ψδ„8Βη,
+osquid:S2259:"LA "NullPointerException" could be thrown; "mPopularPlaces" is nullable here.(–Οόÿÿÿÿ8ληη,

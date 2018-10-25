@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.CardView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -10,12 +9,23 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <ImageView
-            android:id="@+id/background_image_view"
+        <FrameLayout
             android:layout_width="match_parent"
-            android:layout_height="160dp"
-            android:scaleType="centerCrop"
-            app:srcCompat="@drawable/img_attraction_1" />
+            android:layout_height="160dp">
+
+            <ImageView
+                android:id="@+id/background_image_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/text_gradient_shape" />
+
+
+        </FrameLayout>
 
         <ImageView
             android:id="@+id/favourite_button"
@@ -31,13 +41,13 @@
             android:id="@+id/title_text_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="16dp"
+            android:layout_marginBottom="8dp"
             android:layout_marginStart="8dp"
-            android:text="Red Fort"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:textColor="@color/white"
             app:layout_constraintBottom_toTopOf="@+id/description_text_view"
-            app:layout_constraintStart_toStartOf="parent" />
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Red Fort" />
 
         <TextView
             android:id="@+id/description_text_view"
@@ -47,6 +57,7 @@
             android:layout_marginEnd="8dp"
             android:layout_marginStart="8dp"
             android:ellipsize="end"
+            tools:text="Red Fort"
             android:maxLines="1"
             android:textColor="@color/white"
             app:layout_constraintBottom_toBottomOf="parent"

@@ -1,6 +1,7 @@
 package com.example.mohitgoel.dillidarshan;
 
 import android.os.Bundle;
+import android.support.annotation.StringDef;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -11,14 +12,15 @@ import android.widget.TextView;
 
 import com.example.mohitgoel.dillidarshan.adapters.CategoryListAdapter;
 
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
  * Created by Mohit Goel on 14-Oct-18.
  */
-
-
 public class CategoryFragment extends Fragment {
     public static final String ARG_PAGE = "ARG_PAGE";
 
@@ -45,13 +47,11 @@ public class CategoryFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_category, container, false);
-//        TextView textView = (TextView) view;
-//        textView.setText("Fragment #" + mPage);
         ButterKnife.bind(this, view);
 
         mFragmentRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity(),
                 LinearLayoutManager.VERTICAL, false));
-        CategoryListAdapter adapter = new CategoryListAdapter(getActivity());
+        CategoryListAdapter adapter = new CategoryListAdapter(getActivity(), mPage);
         mFragmentRecyclerView.setAdapter(adapter);
         return view;
     }

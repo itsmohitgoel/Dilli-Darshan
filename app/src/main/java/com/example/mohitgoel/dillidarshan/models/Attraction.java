@@ -4,7 +4,7 @@ package com.example.mohitgoel.dillidarshan.models;
  * Created by Mohit Goel on 14-Oct-18.
  */
 
-public class PopularPlace {
+public class Attraction {
     private String mTitle;
     private String mDescription;
     private int mImageResId;

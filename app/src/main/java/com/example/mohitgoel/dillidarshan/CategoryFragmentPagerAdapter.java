@@ -11,7 +11,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 public class CategoryFragmentPagerAdapter extends FragmentPagerAdapter {
     final int PAGE_COUNT = 4;
-    private String tabTitles[] = new String[] { "Tab1", "Tab2", "Tab3", "Tab4" };
+    private String tabTitles[] = new String[] { "Monuments", "Events", "Bars", "DineIn" };
     private Context context;
 
     public CategoryFragmentPagerAdapter(FragmentManager fm, Context context) {

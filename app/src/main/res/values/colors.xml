@@ -5,4 +5,6 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="white">#ebecec</color>
+    <color name="zero_opacity">#00000000</color>
+    <color name="blue_gradient">#aa3b4a67</color>
 </resources>

@@ -21,5 +21,13 @@ Vapp/src/main/java/com/example/mohitgoel/dillidarshan/CategoryFragmentPagerAdapt
 .app/src/main/res/layout/page_one_list_item.xml,2\6\26f4a35b6a5b1acf713d288e26b5eeb3cad79774
 z
 Japp/src/main/java/com/example/mohitgoel/dillidarshan/CategoryFragment.java,f\d\fdb8ce6b423cb5af6de7f9f11bf61b71b280c9e4
-‚
-Rapp/src/main/java/com/example/mohitgoel/dillidarshan/adapters/PlaylistAdapter.java,2\d\2d175442cbd71e4c29113292e7a51327bfc8cd02
+S
+#app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
+^
+.app/src/main/res/layout/page_two_list_item.xml,6\8\68c6edaf46ffd4630def60a200acda4a0854fd46
+‡
+Wapp/src/main/java/com/example/mohitgoel/dillidarshan/adapters/utils/ContentManager.java,7\a\7aee43f9e64165c822d44cd04380627c2a3a3224
+a
+1app/src/main/res/drawable/text_gradient_shape.xml,1\0\10cb2083f6d1f331641e7b8ef9f05ce68580b9e0
+†
+Vapp/src/main/java/com/example/mohitgoel/dillidarshan/adapters/CategoryListAdapter.java,e\5\e58a3eec67868edd54ac2634ae9458853be6e208

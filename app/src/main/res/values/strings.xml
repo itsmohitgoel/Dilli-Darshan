@@ -26,4 +26,61 @@
         <item>The towering archway of India Gate at the center of New Delhi is a war memorial, built in memory of the Indian soldiers who lost their lives fighting for the British Army in World War I. At night it glows warmly under floodlights, and the gardens that line its boulevard are a popular place to enjoy a warm summer's evening. There's also a fun Children's Park that's ideal for kids.</item>
         <item>The Bahai Temple is commonly called the Lotus Temple, as it's shaped like a lotus flower. It's particularly pretty at night, when it's attractively lit up. Made out of concrete covered in white marble, the temple belongs to the Bahai Faith, which proclaims the unity of all people and religions. Everybody is welcome there.</item>
     </string-array>
+
+    <string-array name="title_events_array">
+        <item>Dandiya Night</item>
+        <item>Comedy Workshop</item>
+        <item>Rajasthani Scroll Painting</item>
+        <item>Funtastic4</item>
+    </string-array>
+
+    <string-array name="description_events_array">
+    <item>Coming again this year in the festivity of Navaratas DIVA by Deepika will make the melodious tunes of Garba which will leave you mesmerised.
+
+The event will be inaugurated by dynamic public leader Mrs. Meenakshi Lekhi (Member of Parliamnet). Mingle with fabulous celebrities like Mrs. Biri Shanti Nido (Mrs. India Intl 2017) and
+renowned fashion designer Amit Talwar, along with esteemed dignitaries such as government officials, corporates and socialites.
+
+Groove to the tunes of noted singer Shanker Sawhney, along with rhythmic traditional beats and EDM fusion music. Our professional choreographers will be there to help you make amazing moves.
+
+As last year in DANDIYA NIGHT17, the elite crowd of Delhi-NCR enjoyed this vibrant event, this year get yourself ready for creating and cherishing new memories.
+
+You will be greeted with welcome drinks, sumptuous snacks and dinner at Dandiya Night 2018. Remember to join in our fun-filled competition and take home exciting prizes!</item>
+        <item>Ever thought of polishing your sense of Humor to 10 or 100 times?
+
+        Why waste weekend when you can learn, an amazing skill How to create Humor. Being Humorous is an skill like swimming which can be easily learnt.</item>
+        <item>A session on understanding the basics of miniature painting from Rajasthan. Get a glimpse of Rajasthani Culture and its artform.
+
+Depicted as a religious style scroll painting and folk painting, this art originated in the state of Rajasthan. "Phad" is typically a 15 ft cloth on which the paintings are created, used in ancient times, to cover walls and Indian courts. The stories revolving around the folk deities, Pabuji and Devnarayan are depicted on the phads. The Bhopas, who are fondly referred to as the priest-singers are known to carry the painted phads along with them, describing them as the message of the temple deities. The phads of Pabuji are normally about 15 feet in length, while the phads of Devnarayan are normally about 30 feet long. Traditionally the phads are painted with vegetable colors.
+</item>
+        <item>Funtastic 4 is a collaboration of 4 funny people from the comedy circuit who are raring to make it big.
+They have their foot in and it's only a matter of time, that you keep seeing them regularly. They are already killing it on stage – be there to watch them.</item>
+    </string-array>
+
+    <string-array name="title_restaurants_array">
+        <item>Bukhara restaurant</item>
+        <item>Veda, Connaught Place</item>
+        <item>Parikrama - The Revolving Restaurant</item>
+        <item>Chor Bizaare</item>
+        <item>Karim's, Old Delhi</item>
+    </string-array>
+    <string-array name="description_restaurants_array">
+        <item>Bukhara has a string of awards to its name, including being voted "Best Indian Restaurant in the World" and "Best Restaurant in Asia". Located at the luxury ITC Maurya Sheraton hotel, this restaurant is renowned for its rustic atmosphere, open kitchen, succulent kebabs, and massive naan bread. The Dal Bukhara (black lentils simmered overnight with tomatoes, ginger, and garlic) has achieved legendary status. Kebab lovers will also appreciate the Burrah Kabab and Murgh Malai Kebab. Expect to pay around 6,500 rupees for two people, and be sure to book a table well in advance.</item>
+        <item>Perfect for romance, Veda is one restaurant that will really grab your attention. The interiors were crafted by Rohit Bal, a lauded Indian fashion designer, and everything flickers and shimmers. Candles, mirrors, chandeliers, and an embellished glass dome are set against a backdrop of deep red velvet curtains and exposed brickwork. The menu features Indian cuisine with a contemporary twist, and there's a special tasting menu that has small portions of a selection of items. The restaurant has an impressive wine list too. Expect to pay about 1,800 rupees for two people.</item>
+        <item>For a sweeping 360-degree bird's eye view of the city, dine at India's highest revolving restaurant (and the only one in the Delhi), 240-feet up on the 24th floor. You'll be able to see many monuments such as the Red Fort, Jama Masjid, and Rashtrapati Bhavan. The restaurant takes 90 minutes to complete one revolution, which is about the duration of a leisurely meal. There's also a lounge bar on the 25th floor, but it remains stationary. The menu focuses on North Indian cuisine but offers Chinese and Continental as well. Food is on the pricier side because of the restaurant's uniqueness, with a meal for two costing around 2,500 rupees.</item>
+        <item>Long before he founded Indian Accent, Delhi's much-acclaimed inventive Indian fine-dining restaurant, Rohit Khattar opened this restaurant at his family's Broadway Hotel to display his eclectic collection of discarded vintage household items. Chor Bizarre aims to capture the spirit of the "thieves markets" in every large Indian city (and indeed, one takes place near the hotel every Sunday). It definitely creates an interesting dining experience. To give Delhi a break from ubiquitous butter chicken, the restaurant serves cuisine from India's northern Kashmir region. Go there hungry and feast on the Wazwan, which comes with an array of dishes. The cost is about 2,000 rupees for two. To really work up an appetite, combine lunch with a guided walking tour through Old Delhi.</item>
+        <item>Karim Hotel was established in its current location in 1913 and is now into its fourth generation of management. The area, near Jama Masjid in Old Delhi, provides a fascinating insight into a side of the city that many visitors don't get to see. The restaurant is simple but it serves up inexpensive Mughlai-style food, including a brain curry that will keep adventurous eaters happy. Others may prefer the Dil Bahaar Dopiaza Stew (mutton/goat cooked in onions with curd and whole spices), Dil Pasand Seekh Kebab (made from spicy minced mutton/goat) or Chicken Jahangiri curry. A meal for two will cost around 800 rupees. Cash only.</item>
+    </string-array>
+
+    <string-array name="title_bars_array">
+        <item>Keya, Vasant Kunj</item>
+        <item>Ruin Pub by Imperfecto</item>
+        <item>Auro Kitchen and Bar, Hauz Khas</item>
+        <item>Bohca, Asiad Village</item>
+    </string-array>
+    <string-array name="description_bars_array">
+        <item>A restaurant that masquerades as a bar and turns into a buzzing club on weekends, Keya has all that you want for a wild night. Good food, great music and the best LIITs in town. Keya is the kind of bar where you go for a few drinks before heading out for dinner or even when the party at the nightclub winds up too soon. The drinks menu of the bar has been artfully created by International mixologists.</item>
+        <item>Ruin Pub stays true to its name with an Avante Garde decor that features upside down furniture, mannequin body parts and a wall that is covered with ham radios. The space also has hand-knitted swings and mismatched seating that add to the uniqueness of this bar. You will get some of the booziest cocktails here and can dance the night away to the music performed by live musicians. They have a multicuisine menu, so you can take your pick from anything from sushi to BBQ pork ribs. </item>
+        <item>Auro Kitchen and Bar is sprawled across a humongous 7000 square feet area, divided into the interior dining area and an open-air terrace, with a bar made entirely out of an old shipping container. The atmosphere at Auro is a casual colonial feel with large open spaces and a cosy dining area. Visit Auro Bar and Kitchen for the best gigs and music events in town. </item>
+        <item>Nestled inside the quaint Khel Gaon locality, this plush restaurant houses a large lounge area with a beautifully designed wedge shaped bar with a DJ console in between and an outdoor seating space marked by a large, verdant courtyard, tell-tables and settees. Don’t expect much from the food, but when it comes to preppy music, don’t worry, you’re in safe hands. </item>
+    </string-array>
 </resources>

@@ -1,5 +1,5 @@
 
-Hsquid:S1068"+Remove this unused "context" private field.(κέη8ητη,
 Vsquid:S1197"8Move the array designator from the variable to the type.(ΣƒϋΪ8ητη,
+Hsquid:S1068"+Remove this unused "context" private field.(κέη8ητη,
 >squid:S1170"!Make this final field static too.(ΕΑΙx8ητη,
 ssquid:S00116"URename this field "PAGE_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΕΑΙx8ητη,

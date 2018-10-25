@@ -1,0 +1,8 @@
+
+Rsquid:S1172a"/Remove this unused method parameter "position".(Ô´¹âûÿÿÿÿ8ñå„™ç,
+nsquid:UselessImportCheck"DRemove this unused import 'android.support.v4.app.FragmentActivity'.(¸­¯D8‰Í‰ç,
+qsquid:UselessImportCheck"ARemove this unused import 'android.support.annotation.StringDef'.(Ñªİ–üÿÿÿÿ8¤Çúœç,
+fsquid:UselessImportCheck";Remove this unused import 'java.lang.annotation.Retention'.(ã®›Ö8¤Çúœç,
+Tsquid:S1172)"1Remove this unused method parameter "pageNumber".(Âß‚Åşÿÿÿÿ8§¨Šç,
+lsquid:UselessImportCheck"ARemove this unused import 'java.lang.annotation.RetentionPolicy'.(¥‘Âœ8¤Çúœç,
+Ssquid:S1481A"0Remove this unused "layoutResID" local variable.(Âı¡®ùÿÿÿÿ8ó·Œç,
