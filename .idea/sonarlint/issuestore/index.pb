@@ -23,8 +23,6 @@ z
 Japp/src/main/java/com/example/mohitgoel/dillidarshan/CategoryFragment.java,f\d\fdb8ce6b423cb5af6de7f9f11bf61b71b280c9e4
 S
 #app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
-^
-.app/src/main/res/layout/page_two_list_item.xml,6\8\68c6edaf46ffd4630def60a200acda4a0854fd46
 ‡
 Wapp/src/main/java/com/example/mohitgoel/dillidarshan/adapters/utils/ContentManager.java,7\a\7aee43f9e64165c822d44cd04380627c2a3a3224
 a
