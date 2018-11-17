@@ -12,8 +12,6 @@ import java.util.ArrayList;
  */
 
 public class ContentManager {
-    private static final String TAG = ContentManager.class.getSimpleName();
-
     private static volatile ContentManager INSTANCE;
     private ArrayList<Attraction> mPopularPlaces;
     private ArrayList<Attraction> mEvents;

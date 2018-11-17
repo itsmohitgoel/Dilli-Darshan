@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Dilli Darshan</string>
 
+    <string-array name="tab_titles_array">
+        <item>Monuments</item>
+        <item>Events</item>
+        <item>Bars</item>
+        <item>DineIn</item>
+    </string-array>
+
     <string-array name="title_popular_places_array">
         <item>Red Fort</item>
         <item>Jama Masjid</item>

@@ -11,12 +11,11 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 public class CategoryFragmentPagerAdapter extends FragmentPagerAdapter {
     final int PAGE_COUNT = 4;
-    private String tabTitles[] = new String[] { "Monuments", "Events", "Bars", "DineIn" };
-    private Context context;
+    private String tabTitles[] ;
 
     public CategoryFragmentPagerAdapter(FragmentManager fm, Context context) {
         super(fm);
-        this.context = context;
+        tabTitles = context.getResources().getStringArray(R.array.tab_titles_array);
     }
 
     @Override

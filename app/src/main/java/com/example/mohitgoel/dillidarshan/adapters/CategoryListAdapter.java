@@ -23,17 +23,11 @@ import butterknife.ButterKnife;
  * Adapter for Playlist Screen.
  */
 public class CategoryListAdapter extends RecyclerView.Adapter<CategoryListAdapter.CategoryViewHolder> {
-    //    private ArrayList<Attraction> mAllPlaces;
     private ArrayList<Attraction> mAttraction;
-    private ArrayList<Attraction> mAllEvents;
-    private ArrayList<Attraction> mAllBars;
-    private ArrayList<Attraction> mAllRestaurants;
     LayoutInflater mLayoutInflater;
     private int mPageNumber;
 
     public CategoryListAdapter(Context context, int pageNumber) {
-//        mContext = context;
-//        this.allMusicItems = MusicManager.getInstance(context).getMusicItems();
         mLayoutInflater = LayoutInflater.from(context);
         this.mPageNumber = pageNumber;
         mAttraction = ContentManager.getInstance(context).getAttractions(mPageNumber);
@@ -73,14 +67,8 @@ public class CategoryListAdapter extends RecyclerView.Adapter<CategoryListAdapte
         }
 
         private void bindCategory(Attraction placeToVisit, int position) {
-//            if (position == 0) {
-//                topSeparatorView.setVisibility(View.VISIBLE);
-//            }
-
             titleTextView.setText(placeToVisit.getTitle());
             descriptionTextView.setText(placeToVisit.getDescription());
-//            Bitmap tempBitmap = BitmapFactory.decodeResource(mLayoutInflater
-//                    .getContext().getResources(), R.drawable.alan_walker);
             Drawable imageDrawable = mLayoutInflater.getContext().getResources()
                     .getDrawable(placeToVisit.getImageResId());
             backgroundImageView.setImageDrawable(imageDrawable);
